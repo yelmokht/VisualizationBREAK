@@ -1,0 +1,33 @@
+Comment jouer ?
+
+GENERAL
+- Vous sélectionnez votre mode de jeu entre "Regular adventure" et "Freemode".
+- La difficulté des niveaux est croissante ! Attention au niveau 4.
+- Lorsque vous sélectionnez ce mode de jeu, vous débutez au niveau 1 et devez charger la map correspondante à l'aide du bouton "Next Level"
+- Le niveau est officiellement démarré après avoir appuyé sur "Ready"
+- Vous pouvez choisir la vitesse de jeu sur la fenêtre de jeu.
+
+
+REGULAR
+- Le mode de jeu "regular adventure" est constitué de 6 niveaux consistant en des maps prédéfinies.
+
+FREEMODE
+- Vous décidez soit de rejouer une map prédéfinie avec une difficulté croissante et un nombre de niveaux indéfini
+- ... soit de créer vous-mêmes votre propre map ! Attention il y a des règles à respecter (cf. "Comment dessiner")
+
+
+METTRE LE JEU EN PAUSE
+- Vous pouvez mettre le jeu en pause à l'aide du bouton "Pause" situé dans le haut de la fenêtre
+- Vous ne pourrez pas placer de tour et vous ne récoltez pas d'argent
+- Pour reprendre la partie, sélectionnez une vitesse de jeu parmi les autres boutons à dispositions.
+
+DÉROULEMENT D'UN NIVEAU
+- Le niveau 1 contient 4 vagues. Ce nombre augmente de 1 à chaque niveau.
+- Le nombre de PNJ par vague est calculé selon "10 + 4*levelNumber + 2*waveNumber"
+- Lorsqu'une vague envoie son dernier PNJ, il y a 5 secondes d'écart avant que la vague suivante ne suive
+- Un niveau se termine lorsque toutes les vagues ont été lancées et que tous les PNJ présents sur la carte ont disparu.
+
+CHANGEMENT DE VAGUE
+- Le nombre de PNJ augmente
+- La fréquence d'apparition des PNJ augmente
+- La vie des PNJ augmente
